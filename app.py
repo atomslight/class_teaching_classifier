@@ -6,8 +6,8 @@ from pathlib import Path
 import streamlit as st
 from dotenv import load_dotenv
 
-from class_quality.pipeline import assess_file
-from class_quality.schemas import AssessmentResult
+from src.class_quality.pipeline import assess_file
+from src.class_quality.schemas import AssessmentResult
 
 
 load_dotenv()
