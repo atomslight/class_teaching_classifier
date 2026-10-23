@@ -1,0 +1,2 @@
+# Streamlit Cloud installs this conventional root requirements file.
+-r requirements-phase1.txt
