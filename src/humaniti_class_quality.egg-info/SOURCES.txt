@@ -13,7 +13,9 @@ src/humaniti_class_quality.egg-info/PKG-INFO
 src/humaniti_class_quality.egg-info/SOURCES.txt
 src/humaniti_class_quality.egg-info/dependency_links.txt
 src/humaniti_class_quality.egg-info/top_level.txt
+tests/test_extractors.py
 tests/test_pipeline.py
+tests/test_provider_fallback.py
 tests/test_scoring.py
 tests/test_validation.py
 tests/test_vtt.py
