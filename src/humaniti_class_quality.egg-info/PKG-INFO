@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: humaniti-class-quality
+Version: 0.1.0
+Summary: Local, evidence-grounded VTT class-quality assessor
+Requires-Python: <3.14,>=3.11

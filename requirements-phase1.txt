@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+pydantic>=2.8,<3
+python-dotenv>=1.0,<2
+ollama>=0.4,<1
+groq>=0.31,<2
+pytest>=8.0,<9

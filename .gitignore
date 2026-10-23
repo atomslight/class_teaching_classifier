@@ -1,0 +1,24 @@
+# Confidential source material and runtime data
+Humaniti AI Dataset/
+private_research/
+data/
+uploads/
+artifacts/
+tmp/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.vtt
+!tests/fixtures/*.vtt
+*.srt
+*.wav
+*.mp3
+.env
+
+# Python and Streamlit
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
